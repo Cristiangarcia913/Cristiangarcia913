@@ -21,14 +21,14 @@
 
 ### 🚀 Sobre Mí
 
-Soy estudiante del **Grado en Ingeniería Informática** en la **Universidad Camilo José Cela (UCJC)** en Madrid. 
+Soy estudiante del **Grado en Ingeniería Informática** en la **Universidad Camilo José Cela (UCJC)** en Madrid.
 
-Me apasiona el desarrollo de software integral: desde la construcción de aplicaciones web y backend robustos, hasta la integración de Inteligencia Artificial práctica y la administración/seguridad en entornos Linux y sistemas operativos. Siempre busco aplicar buenas prácticas de ingeniería, código limpio y arquitecturas escalables a problemas del mundo real.
+Me apasiona el desarrollo de software integral: desde la construcción de aplicaciones web y backend robustos, hasta la integración de Inteligencia Artificial práctica, aseguramiento de la calidad del software (CMMI) y la administración de entornos Linux. Siempre busco aplicar buenas prácticas de ingeniería, código limpio y arquitecturas escalables a problemas del mundo real.
 
 - 🎓 **Carrera:** Grado en Ingeniería Informática (UCJC).
-- 💡 **Áreas de interés:** Desarrollo Web Full Stack, Integración de LLMs/IA, Sistemas Operativos & Linux, Arquitectura de Software.
-- 🔭 **Actualmente trabajando en:** Herramientas de automatización empresarial con IA (`AutoFactura Pro`) y entornos Linux.
-- 🌱 **En constante aprendizaje de:** TypeScript, testing avanzado, despliegues CI/CD y patrones de diseño modernos.
+- 💡 **Áreas de interés:** Desarrollo Web Full Stack, Integración de LLMs/IA, Sistemas Operativos & Linux, Arquitectura y Calidad de Software.
+- 🔭 **Proyectos destacados:** [AutoFactura Pro](https://github.com/Cristiangarcia913/autofactura-pro), [Desktop-JailLinux](https://github.com/Cristiangarcia913/Desktop-JailLinux), [Diagnóstico CMMI Nivel 2](https://github.com/Cristiangarcia913/Diagnostico-cmmi-nivel2).
+- 🌱 **En constante aprendizaje de:** TypeScript, testing avanzado, despliegues CI/CD, Docker y patrones de diseño modernos.
 
 ---
 
@@ -49,13 +49,16 @@ Me apasiona el desarrollo de software integral: desde la construcción de aplica
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Anthropic%20Claude%20API-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/ReportLab-E11D48?style=flat-square" alt="ReportLab" />
   <img src="https://img.shields.io/badge/ExcelJS-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="ExcelJS" />
 </p>
 
-#### 🧰 Herramientas & Entornos
+#### 🧰 Herramientas & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions%20CI-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux%20%2F%20Ubuntu-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
@@ -66,25 +69,32 @@ Me apasiona el desarrollo de software integral: desde la construcción de aplica
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">📄 <a href="https://github.com/Cristiangarcia913/autofactura-pro">AutoFactura Pro</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Node.js-Express-green?style=flat-square" />
         <img src="https://img.shields.io/badge/Claude%20IA-Vision-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/SQLite-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Docker-CI%2FCD-blue?style=flat-square" />
       </p>
-      <p>Aplicación full stack para procesamiento masivo de facturas y tickets mediante IA multimodal. Extrae datos fiscales (IVA, IRPF), detecta duplicados, valida reglas contables y exporta libros oficiales en Excel para modelos tributarios (303 y 130).</p>
-      <p><b>✨ Clave:</b> Manejo de bases de datos embebidas, validaciones rigurosas y arquitectura limpia sin dependencias complejas.</p>
+      <p>Aplicación full stack para procesamiento masivo de facturas y tickets mediante IA multimodal. Extrae datos fiscales (IVA, IRPF), detecta duplicados, valida reglas contables y exporta libros oficiales en Excel para modelos tributarios (303 y 130). Incluye Docker y CI con GitHub Actions.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🐧 <a href="https://github.com/Cristiangarcia913/JailLinux">JailLinux & Jailinux Shell</a></h3>
+    <td width="33%" valign="top">
+      <h3 align="center">🐧 <a href="https://github.com/Cristiangarcia913/Desktop-JailLinux">Desktop-JailLinux</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Linux-Bash-yellow?style=flat-square" />
-        <img src="https://img.shields.io/badge/Systems-OS-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/Web-Docs-lightblue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-Tkinter-3776AB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Linux-Security-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/RBAC-Sandbox-red?style=flat-square" />
       </p>
-      <p>Proyecto orientado a sistemas y entornos UNIX/Linux. Incluye scripts shell para automatización y gestión de entornos restringidos (chroot / jails), acompañado de documentación técnica y portal explicativo.</p>
-      <p><b>✨ Clave:</b> Seguridad de sistemas, administración de terminal y automatización shell.</p>
+      <p>Simulador interactivo de políticas de seguridad en sistemas operativos y control de acceso basado en roles (Carcelero vs Prisionero). Implementa restricciones en tiempo de ejecución (chroot/jail), auditoría y monitoreo.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">📊 <a href="https://github.com/Cristiangarcia913/Diagnostico-cmmi-nivel2">Diagnóstico CMMI Nivel 2</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-GUI-3776AB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Quality-CMMI-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/ReportLab-PDF-red?style=flat-square" />
+      </p>
+      <p>Herramienta para evaluar la madurez de procesos de software en las 7 KPAs de CMMI Nivel 2. Genera gráficos estadísticos en tiempo real, informes ejecutivos en PDF e integra recomendaciones asistidas por IA.</p>
     </td>
   </tr>
 </table>
