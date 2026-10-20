@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/cristian-garcía-del-olmo-7b8551333">
+  <a href="https://www.linkedin.com/in/cristian-garc%C3%ADa-del-olmo-7b8551333">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:cristiangarciadelolmo06@gmail.com">
