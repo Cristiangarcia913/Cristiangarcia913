@@ -5,7 +5,16 @@
 </p>
 
 <p align="center">
-  <img src="header.svg" width="100%" alt="Cristian García Del Olmo - Computer Engineering" />
+  <a href="https://www.linkedin.com/in/cristian-garc%C3%ADa-del-olmo-7b8551333">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:cristiangarciadelolmo06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Cristiangarcia913">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Madrid%2C%20Spain-EA4335?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
 </p>
 
 ---
