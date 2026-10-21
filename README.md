@@ -1,20 +1,11 @@
 # 👨‍💻 Cristian García Del Olmo
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=180&section=header&text=Cristian%20Garc%C3%ADa&fontSize=52&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Full%20Stack%20%26%20Software%20Developer&descAlignY=62&descFontSize=20" width="100%" />
+  <img src="header.svg" width="100%" alt="Cristian García Del Olmo - Computer Engineering" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cristian-garc%C3%ADa-del-olmo-7b8551333">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:cristiangarciadelolmo06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Cristiangarcia913">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Madrid%2C%20Spain-EA4335?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="header.svg" width="100%" alt="Cristian García Del Olmo - Computer Engineering" />
 </p>
 
 ---
@@ -104,7 +95,7 @@ Me apasiona el desarrollo de software integral: desde la construcción de aplica
 ### 📊 Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cristiangarcia913&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cristiangarcia913&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiangarcia913&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
