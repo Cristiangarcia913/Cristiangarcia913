@@ -1,119 +1,55 @@
-# 👨‍💻 Cristian García Del Olmo
+# Cristian García Del Olmo
 
-<p align="center">
-  <img src="header.svg" width="100%" alt="Cristian García Del Olmo - Computer Engineering" />
-</p>
-
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/cristian-garc%C3%ADa-del-olmo-7b8551333">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:cristiangarciadelolmo06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Cristiangarcia913">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Madrid%2C%20Spain-EA4335?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Madrid%2C%20España-555555?style=flat-square&logo=google-maps&logoColor=white" alt="Ubicación" />
 </p>
 
----
+Estudiante de Ingeniería Informática en la Universidad Camilo José Cela (UCJC), enfocado en **Tecnologías de la Información (TI)** y **Ciberseguridad**.
 
-### 🚀 Sobre Mí
-
-Soy estudiante del **Grado en Ingeniería Informática** en la **Universidad Camilo José Cela (UCJC)** en Madrid.
-
-Me apasiona el desarrollo de software integral: desde la construcción de aplicaciones web y backend robustos, hasta la integración de Inteligencia Artificial práctica, aseguramiento de la calidad del software (CMMI) y la administración de entornos Linux. Siempre busco aplicar buenas prácticas de ingeniería, código limpio y arquitecturas escalables a problemas del mundo real.
-
-- 🎓 **Carrera:** Grado en Ingeniería Informática (UCJC).
-- 💡 **Áreas de interés:** Desarrollo Web Full Stack, Integración de LLMs/IA, Sistemas Operativos & Linux, Arquitectura y Calidad de Software.
-- 🔭 **Proyectos destacados:** [AutoFactura Pro](https://github.com/Cristiangarcia913/autofactura-pro), [Desktop-JailLinux](https://github.com/Cristiangarcia913/Desktop-JailLinux), [Diagnóstico CMMI Nivel 2](https://github.com/Cristiangarcia913/Diagnostico-cmmi-nivel2).
-- 🌱 **En constante aprendizaje de:** TypeScript, testing avanzado, despliegues CI/CD, Docker y patrones de diseño modernos.
+Me interesa la seguridad en sistemas operativos (especialmente Linux), la administración de redes, el bastionado de sistemas y el uso de scripting en Python y Bash para automatizar auditorías y tareas de administración.
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛡️ Áreas de interés y competencias
 
-#### 💻 Lenguajes de Programación
+- **Seguridad y Sistemas:** Configuración de entornos restringidos (*sandboxing/chroot*), control de accesos basado en roles (RBAC), auditoría de procesos y bastionado en Linux.
+- **Redes e Infraestructura:** Conceptos de redes, gestión de contenedores con Docker, virtualización y despliegue local.
+- **Scripting y Automatización:** Desarrollo de scripts y utilidades en Python y Bash para soporte, automatización y análisis.
+
+---
+
+### 🧰 Stack y herramientas
+
+- **Sistemas y Seguridad:** Linux (Ubuntu, Debian), Bash, Docker, Git
+- **Lenguajes:** Python, Bash, JavaScript, SQL (SQLite)
+- **Desarrollo y soporte:** Node.js, Express, VS Code
+
+---
+
+### 📂 Proyectos destacados
+
+- **[Desktop-JailLinux](https://github.com/Cristiangarcia913/Desktop-JailLinux):** Simulación de un entorno de escritorio enjaulado y restringido en Python/Tkinter, implementando control de acceso por roles (Carcelero vs Prisionero) y limitación de ejecución de procesos.
+- **[AutoFactura Pro](https://github.com/Cristiangarcia913/autofactura-pro):** Aplicación web para extracción y validación contable de facturas mediante visión artificial (Claude API) y SQLite, empaquetada con Docker y validada con GitHub Actions (CI).
+- **[Diagnóstico CMMI Nivel 2](https://github.com/Cristiangarcia913/Diagnostico-cmmi-nivel2):** Herramienta con interfaz gráfica en Python para auditoría de procesos y buenas prácticas de ingeniería de software, con gráficos de cumplimiento y exportación a PDF.
+
+---
+
+### 📊 Actividad en GitHub
+
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Bash%20%2F%20Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-#### ⚙️ Frameworks, Librerías & Bases de Datos
-<p align="left">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Anthropic%20Claude%20API-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/ReportLab-E11D48?style=flat-square" alt="ReportLab" />
-  <img src="https://img.shields.io/badge/ExcelJS-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="ExcelJS" />
-</p>
-
-#### 🧰 Herramientas & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions%20CI-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux%20%2F%20Ubuntu-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
-
----
-
-### ⭐ Proyectos Destacados
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">📄 <a href="https://github.com/Cristiangarcia913/autofactura-pro">AutoFactura Pro</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-Express-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/Claude%20IA-Vision-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Docker-CI%2FCD-blue?style=flat-square" />
-      </p>
-      <p>Aplicación full stack para procesamiento masivo de facturas y tickets mediante IA multimodal. Extrae datos fiscales (IVA, IRPF), detecta duplicados, valida reglas contables y exporta libros oficiales en Excel para modelos tributarios (303 y 130). Incluye Docker y CI con GitHub Actions.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🐧 <a href="https://github.com/Cristiangarcia913/Desktop-JailLinux">Desktop-JailLinux</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-Tkinter-3776AB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Linux-Security-yellow?style=flat-square" />
-        <img src="https://img.shields.io/badge/RBAC-Sandbox-red?style=flat-square" />
-      </p>
-      <p>Simulador interactivo de políticas de seguridad en sistemas operativos y control de acceso basado en roles (Carcelero vs Prisionero). Implementa restricciones en tiempo de ejecución (chroot/jail), auditoría y monitoreo.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">📊 <a href="https://github.com/Cristiangarcia913/Diagnostico-cmmi-nivel2">Diagnóstico CMMI Nivel 2</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-GUI-3776AB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Quality-CMMI-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/ReportLab-PDF-red?style=flat-square" />
-      </p>
-      <p>Herramienta para evaluar la madurez de procesos de software en las 7 KPAs de CMMI Nivel 2. Genera gráficos estadísticos en tiempo real, informes ejecutivos en PDF e integra recomendaciones asistidas por IA.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Estadísticas en GitHub
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cristiangarcia913&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiangarcia913&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cristiangarcia913&theme=tokyonight&hide_border=true" width="96%" />
-</p>
-
----
-
-<p align="center">
-  <i>"El código limpio siempre parece que fue escrito por alguien a quien le importaba." — Michael Feathers</i>
 </p>
